@@ -33,7 +33,6 @@ This project is a real-time hand gesture recognition system that detects specifi
 
 ---
 ## 🎬 Demo
-https://drive.google.com/file/d/1dULOwObuPWrDMfLRPzXcajw8BA0vQUuj/view?usp=sharing
 
 <iframe src="https://drive.google.com/file/d/1dULOwObuPWrDMfLRPzXcajw8BA0vQUuj/preview" 
         width="640" height="360" allow="autoplay"></iframe>
